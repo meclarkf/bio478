@@ -1,0 +1,27 @@
+---
+title: "lab 11"
+author: "Madeleine"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+execute: 
+  warning: false
+  message: false
+  project:
+  resources:
+    - lab 7.html
+---
+
+## About me
+
+My name is Madeleine Clark and I'm a senior biology major.
+
+This is my dog saboo:
+
+![](saboo.png){fig-align="center"}
+
+## Lab 7
+
+[Open Lab 7](lab%207.html)
